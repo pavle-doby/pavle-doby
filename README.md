@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **iampavle.sync@gmail.com**
 
-- ⚡ Fun fact **loading...**
+- ⚡ Fun fact **I have skills to communicate with computers so they can fulfill your wishes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
