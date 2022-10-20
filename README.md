@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavle</h1>
 <h3 align="center">An enthusiastic and curious Web Developer</h3>
 
-- 🔭 I’m currently working for Microsoft
+- 🔭 I’m currently working for [Akvelon](https://akvelon.com/) | ex. [Microsoft](https://www.microsoft.com/), [Neopix](https://weareneopix.com/) & [HTEC](https://htecgroup.com/) 
 
 - 🌱 I’m currently exploring **web3 (blockchain & crypto)** developmnet
 
