@@ -9,6 +9,8 @@
 
 - 🔨 I'm creator of [doby-style-cli ✨](https://www.npmjs.com/package/doby-style-cli)
 
+- ⚗️ I'm cooking Doby Keyboard Extension ⌨️⚡  
+
 - 👨‍💻 All of my projects are available at [https://github.com/pavle-doby](https://github.com/pavle-doby)
 
 - 📝 I regularly write articles on **loading...**
