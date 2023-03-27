@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **my ideas**
 
-- 📫 How to reach me **iampavle.sync@gmail.com**
+- 📫 How to reach me **pavle@dobyishere.com**
 
 - ⚡ Fun fact **I have skills to communicate with computers so they can fulfill your wishes.**
 
