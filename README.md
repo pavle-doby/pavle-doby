@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavle</h1>
 <h3 align="center">An enthusiastic and curious Web Developer</h3>
 
-- 🔭 I’m currently working **Opent To Work** | ex [Akvelon](https://akvelon.com/), [Microsoft](https://www.microsoft.com/), [Neopix](https://weareneopix.com/) & [HTEC](https://htecgroup.com/) 
+- 🔭 I’m currently **open to work opportunities** | ex [Akvelon](https://akvelon.com/), [Microsoft](https://www.microsoft.com/), [Neopix](https://weareneopix.com/) & [HTEC](https://htecgroup.com/) 
 
-- 🌱 I’m currently exploring **cros-plafotm technologies & parallel systems**
+- 🌱 I’m currently exploring **cross-platform technologies & parallel systems**
 
 - ⚙️ I'm creator of [cyrillic-latin-search 🔤](https://www.npmjs.com/package/cyrillic-latin-search)
 
@@ -11,7 +11,7 @@
 
 - ⚗️ I'm cooking something interesting in **Doby Labs** 🍍
 
-- 🔮 I would like to lear more about **web3 (blockchain & crypto)** developmnet
+- 🔮 I would like to learn more about **web3, and web2 optimization**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/pavle-doby](https://github.com/pavle-doby)
 
