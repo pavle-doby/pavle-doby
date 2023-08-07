@@ -26,8 +26,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/pavle-doby/pavle-doby/output/snake.svg" alt="Snake animation" />
 
 ###
