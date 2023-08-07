@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavle</h1>
 <h3 align="center">An enthusiastic and curious Web Developer</h3>
 
-- 🔭 I’m currently working on [Doby](https://www.linkedin.com/company/dobyishere/) | ex [Akvelon](https://akvelon.com/), [Microsoft](https://www.microsoft.com/), [Neopix](https://weareneopix.com/) & [HTEC](https://htecgroup.com/) 
+- 🔭 I’m currently working **Opent To Work** | ex [Akvelon](https://akvelon.com/), [Microsoft](https://www.microsoft.com/), [Neopix](https://weareneopix.com/) & [HTEC](https://htecgroup.com/) 
 
 - 🌱 I’m currently exploring **cros-plafotm technologies & parallel systems**
 
